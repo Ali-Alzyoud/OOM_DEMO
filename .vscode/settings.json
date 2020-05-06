@@ -1,0 +1,13 @@
+{
+   "files.associations": {
+      "elementary.h": "c",
+      "*.x": "c",
+      "string": "c",
+      "efl_ui_text.eo.h": "c",
+      "elm_widget_entry.h": "c",
+      "efl_text_interactive.eo.h": "c",
+      "efl_ui.h": "c",
+      "hb.h": "c",
+      "efl_core.h": "c"
+   }
+}
